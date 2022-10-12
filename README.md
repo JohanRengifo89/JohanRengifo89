@@ -1,5 +1,5 @@
 # 💫 About Me:
-Johan Rengifo <br>Estudiante de Programación<br>Amante a el Desarrollo de Software<br>Creador de Aplicativos Web Modernos
+Johan Rengifo <br>Programming Student<br>Software Development Lover<br>Creator of Modern Web Applications
 
 
 # 💻 Tech Stack:
